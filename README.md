@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Monu Sahu
+# 👋 Hey, I'm Monu Suresh Sahu
 
 ### Android & Native Systems Developer | Full-Cycle Product Engineer
 
@@ -32,11 +32,13 @@ Monetization         │  Google Play Console · AdMob Mediation · AdSense · G
 | [**Storyline Video Editor**](https://github.com/contactmayankstudio/storyline-video-editor) | High-performance native Android video editing engine | C++17, NDK, CMake, JNI |
 | [**Sector Zero: Lockdown**](https://github.com/contactmayankstudio/sector-zero-lockdown) | 3D zombie survival shooter game — 60 FPS on mid-tier devices | Godot 4.x, GDScript |
 
+> ⚠️ All repositories are under **Proprietary License** — viewing for evaluation only. No copying, modification, or redistribution permitted.
+
 ---
 
 ### 📫 Get in Touch
 
-- 📧 Email: contactmayankstudio@gmail.com
+- 📧 Email: contact.mayankstudio@gmail.com
 - 📍 Location: India
 - 💼 Open to: **Android NDK / Native Systems / Game Dev** roles
 
